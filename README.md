@@ -48,6 +48,8 @@ Wait for Unity to recompile, the error should be gone then.
 
 If not, please open an issue.
 
+test
+
 ## Credits
 
 All credits go to [FluentAssertions](https://fluentassertions.com) for creating an excellent library to make Unit Testing more readable and maintainable.
